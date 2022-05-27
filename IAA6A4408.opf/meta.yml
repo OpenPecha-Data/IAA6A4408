@@ -1,0 +1,711 @@
+id: IAA6A4408
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T16:57:02.693115'
+last_modified: '2022-05-27T16:57:02.693126'
+parser: null
+source_metadata:
+  title: 'RK: Kāśyapaparivarta'
+  language: sa
+  base:
+    f77D8:
+      title: Title
+      base_file: f77D8.txt
+      order: 1
+    fA0A0:
+      title: Introduction
+      base_file: fA0A0.txt
+      order: 2
+    f5869:
+      title: CI_§0
+      base_file: f5869.txt
+      order: 3
+    fE44E:
+      title: CI_§1
+      base_file: fE44E.txt
+      order: 4
+    f403B:
+      title: CI_§2
+      base_file: f403B.txt
+      order: 5
+    f1802:
+      title: CI_§3
+      base_file: f1802.txt
+      order: 6
+    f630D:
+      title: CI_§4
+      base_file: f630D.txt
+      order: 7
+    f4499:
+      title: CI_§5
+      base_file: f4499.txt
+      order: 8
+    fC6CB:
+      title: CI_§6
+      base_file: fC6CB.txt
+      order: 9
+    fCDC9:
+      title: CI_§7
+      base_file: fCDC9.txt
+      order: 10
+    f839A:
+      title: CI_§8
+      base_file: f839A.txt
+      order: 11
+    fFB2D:
+      title: CI_§9
+      base_file: fFB2D.txt
+      order: 12
+    f4A40:
+      title: CI_§10
+      base_file: f4A40.txt
+      order: 13
+    f9852:
+      title: CII_§11
+      base_file: f9852.txt
+      order: 14
+    f8E71:
+      title: CII_§12
+      base_file: f8E71.txt
+      order: 15
+    f5D7F:
+      title: CII_§13
+      base_file: f5D7F.txt
+      order: 16
+    f2884:
+      title: CII_§14
+      base_file: f2884.txt
+      order: 17
+    f9E91:
+      title: CII_§15
+      base_file: f9E91.txt
+      order: 18
+    f745E:
+      title: CII_§16
+      base_file: f745E.txt
+      order: 19
+    f4154:
+      title: CII_§17
+      base_file: f4154.txt
+      order: 20
+    f46BA:
+      title: CII_§18
+      base_file: f46BA.txt
+      order: 21
+    f8C3B:
+      title: CII_§19
+      base_file: f8C3B.txt
+      order: 22
+    fC188:
+      title: CII_§20
+      base_file: fC188.txt
+      order: 23
+    f1456:
+      title: CIII_§21
+      base_file: f1456.txt
+      order: 24
+    fB00E:
+      title: CIII_§22
+      base_file: fB00E.txt
+      order: 25
+    f3C7E:
+      title: CIII_§23
+      base_file: f3C7E.txt
+      order: 26
+    f7515:
+      title: CIII_§24
+      base_file: f7515.txt
+      order: 27
+    f2D08:
+      title: CIII_§25
+      base_file: f2D08.txt
+      order: 28
+    f4CB6:
+      title: CIII_§26
+      base_file: f4CB6.txt
+      order: 29
+    fAE49:
+      title: CIII_§27
+      base_file: fAE49.txt
+      order: 30
+    fF7AB:
+      title: CIII_§28
+      base_file: fF7AB.txt
+      order: 31
+    f1FB8:
+      title: CIII_§29
+      base_file: f1FB8.txt
+      order: 32
+    f24F3:
+      title: CIII_§30
+      base_file: f24F3.txt
+      order: 33
+    f22E2:
+      title: CIV_§31
+      base_file: f22E2.txt
+      order: 34
+    fAC9E:
+      title: CIV_§32
+      base_file: fAC9E.txt
+      order: 35
+    f9800:
+      title: CIV_§33
+      base_file: f9800.txt
+      order: 36
+    f85BA:
+      title: CIV_§34
+      base_file: f85BA.txt
+      order: 37
+    f2684:
+      title: CIV_§35
+      base_file: f2684.txt
+      order: 38
+    f4809:
+      title: CIV_§36
+      base_file: f4809.txt
+      order: 39
+    f947F:
+      title: CIV_§27
+      base_file: f947F.txt
+      order: 40
+    f6601:
+      title: CIV_§38
+      base_file: f6601.txt
+      order: 41
+    f4F88:
+      title: CIV_§39
+      base_file: f4F88.txt
+      order: 42
+    f4B76:
+      title: CIV_§40
+      base_file: f4B76.txt
+      order: 43
+    fA43F:
+      title: CV_§41
+      base_file: fA43F.txt
+      order: 44
+    fDDE9:
+      title: CV_§42
+      base_file: fDDE9.txt
+      order: 45
+    fE5DC:
+      title: CV_§43
+      base_file: fE5DC.txt
+      order: 46
+    f0CA0:
+      title: CV_§44
+      base_file: f0CA0.txt
+      order: 47
+    f4FDF:
+      title: CV_§45
+      base_file: f4FDF.txt
+      order: 48
+    f9672:
+      title: CV_§46
+      base_file: f9672.txt
+      order: 49
+    f73F7:
+      title: CV_§47
+      base_file: f73F7.txt
+      order: 50
+    f5E76:
+      title: CV_§48
+      base_file: f5E76.txt
+      order: 51
+    f7968:
+      title: CV_§49
+      base_file: f7968.txt
+      order: 52
+    f9977:
+      title: CV_§50
+      base_file: f9977.txt
+      order: 53
+    f3DDB:
+      title: CV_§51
+      base_file: f3DDB.txt
+      order: 54
+    fF563:
+      title: CV_§52
+      base_file: fF563.txt
+      order: 55
+    f6626:
+      title: CV_§53
+      base_file: f6626.txt
+      order: 56
+    fD165:
+      title: CV_§54
+      base_file: fD165.txt
+      order: 57
+    f1238:
+      title: CV_§55
+      base_file: f1238.txt
+      order: 58
+    f3D66:
+      title: CV_§56
+      base_file: f3D66.txt
+      order: 59
+    f5B56:
+      title: CV_§57
+      base_file: f5B56.txt
+      order: 60
+    f01E4:
+      title: CV_§58
+      base_file: f01E4.txt
+      order: 61
+    f8111:
+      title: CV_§59
+      base_file: f8111.txt
+      order: 62
+    fBDDB:
+      title: CV_§60
+      base_file: fBDDB.txt
+      order: 63
+    f35BB:
+      title: CVI_§61
+      base_file: f35BB.txt
+      order: 64
+    f9691:
+      title: CVI_§62
+      base_file: f9691.txt
+      order: 65
+    fE5F6:
+      title: CVI_§63
+      base_file: fE5F6.txt
+      order: 66
+    fC2B4:
+      title: CVI_§64
+      base_file: fC2B4.txt
+      order: 67
+    f30BE:
+      title: CVI_§65
+      base_file: f30BE.txt
+      order: 68
+    f5922:
+      title: CVI_§66
+      base_file: f5922.txt
+      order: 69
+    f796C:
+      title: CVI_§67
+      base_file: f796C.txt
+      order: 70
+    fBB88:
+      title: CVI_§68
+      base_file: fBB88.txt
+      order: 71
+    f275E:
+      title: CVI_§69
+      base_file: f275E.txt
+      order: 72
+    f0B4D:
+      title: CVI_§70
+      base_file: f0B4D.txt
+      order: 73
+    fADCA:
+      title: CVII_§71
+      base_file: fADCA.txt
+      order: 74
+    fD0B8:
+      title: CVII_§72
+      base_file: fD0B8.txt
+      order: 75
+    f830A:
+      title: CVII_§73
+      base_file: f830A.txt
+      order: 76
+    fC479:
+      title: CVII_§74
+      base_file: fC479.txt
+      order: 77
+    f3D87:
+      title: CVII_§75
+      base_file: f3D87.txt
+      order: 78
+    f0EC0:
+      title: CVII_§76
+      base_file: f0EC0.txt
+      order: 79
+    f507C:
+      title: CVII_§77
+      base_file: f507C.txt
+      order: 80
+    fEECD:
+      title: CVII_§78
+      base_file: fEECD.txt
+      order: 81
+    f06EB:
+      title: CVII_§79
+      base_file: f06EB.txt
+      order: 82
+    fA6F8:
+      title: CVII_§80
+      base_file: fA6F8.txt
+      order: 83
+    fC596:
+      title: CVIII_§81
+      base_file: fC596.txt
+      order: 84
+    f39B6:
+      title: CVIII_§82
+      base_file: f39B6.txt
+      order: 85
+    fDF81:
+      title: CVIII_§83
+      base_file: fDF81.txt
+      order: 86
+    fF294:
+      title: CVIII_§84
+      base_file: fF294.txt
+      order: 87
+    f00B1:
+      title: CVIII_§85
+      base_file: f00B1.txt
+      order: 88
+    f4014:
+      title: CVIII_§86
+      base_file: f4014.txt
+      order: 89
+    f243F:
+      title: CVIII_§87
+      base_file: f243F.txt
+      order: 90
+    fDBB4:
+      title: CVIII_§88
+      base_file: fDBB4.txt
+      order: 91
+    fF46F:
+      title: CVIII_§89
+      base_file: fF46F.txt
+      order: 92
+    fB644:
+      title: CVIII_§90
+      base_file: fB644.txt
+      order: 93
+    f9883:
+      title: CIX_§91
+      base_file: f9883.txt
+      order: 94
+    f6823:
+      title: CIX_§92
+      base_file: f6823.txt
+      order: 95
+    f1782:
+      title: CIX_§93
+      base_file: f1782.txt
+      order: 96
+    f38E3:
+      title: CIX_§94
+      base_file: f38E3.txt
+      order: 97
+    fAB66:
+      title: CIX_§95
+      base_file: fAB66.txt
+      order: 98
+    f466B:
+      title: CIX_§96
+      base_file: f466B.txt
+      order: 99
+    f3330:
+      title: CIX_§97
+      base_file: f3330.txt
+      order: 100
+    fB3CD:
+      title: CIX_§98
+      base_file: fB3CD.txt
+      order: 101
+    f5D7A:
+      title: CIX_§99
+      base_file: f5D7A.txt
+      order: 102
+    fE6BC:
+      title: CIX_§100
+      base_file: fE6BC.txt
+      order: 103
+    f940F:
+      title: CX_§101
+      base_file: f940F.txt
+      order: 104
+    f96AE:
+      title: CX_§102
+      base_file: f96AE.txt
+      order: 105
+    f6DC3:
+      title: CX_§103
+      base_file: f6DC3.txt
+      order: 106
+    fE874:
+      title: CX_§104
+      base_file: fE874.txt
+      order: 107
+    fFD3F:
+      title: CX_§105
+      base_file: fFD3F.txt
+      order: 108
+    f9A24:
+      title: CX_§106
+      base_file: f9A24.txt
+      order: 109
+    f2430:
+      title: CX_§107
+      base_file: f2430.txt
+      order: 110
+    fC368:
+      title: CX_§108
+      base_file: fC368.txt
+      order: 111
+    f1249:
+      title: CX_§109
+      base_file: f1249.txt
+      order: 112
+    f9407:
+      title: CX_§110
+      base_file: f9407.txt
+      order: 113
+    fF12E:
+      title: CXI_§111
+      base_file: fF12E.txt
+      order: 114
+    fD6B9:
+      title: CXI_§112
+      base_file: fD6B9.txt
+      order: 115
+    f5D9F:
+      title: CXI_§113
+      base_file: f5D9F.txt
+      order: 116
+    f0B78:
+      title: CXI_§114
+      base_file: f0B78.txt
+      order: 117
+    f3EDB:
+      title: CXI_§115
+      base_file: f3EDB.txt
+      order: 118
+    fFE25:
+      title: CXI_§116
+      base_file: fFE25.txt
+      order: 119
+    f6661:
+      title: CXI_§117
+      base_file: f6661.txt
+      order: 120
+    f07FC:
+      title: CXI_§118
+      base_file: f07FC.txt
+      order: 121
+    f1B76:
+      title: CXI_§119
+      base_file: f1B76.txt
+      order: 122
+    fB380:
+      title: CXI_§120
+      base_file: fB380.txt
+      order: 123
+    fF9E2:
+      title: CXII_§121
+      base_file: fF9E2.txt
+      order: 124
+    f7673:
+      title: CXII_§122
+      base_file: f7673.txt
+      order: 125
+    f2118:
+      title: CXII_§123
+      base_file: f2118.txt
+      order: 126
+    fD619:
+      title: CXII_§124
+      base_file: fD619.txt
+      order: 127
+    f4693:
+      title: CXII_§125
+      base_file: f4693.txt
+      order: 128
+    f48E6:
+      title: CXII_§126
+      base_file: f48E6.txt
+      order: 129
+    fB3DD:
+      title: CXII_§127
+      base_file: fB3DD.txt
+      order: 130
+    fF717:
+      title: CXII_§128
+      base_file: fF717.txt
+      order: 131
+    f999C:
+      title: CXII_§129
+      base_file: f999C.txt
+      order: 132
+    fC617:
+      title: CXII_§130
+      base_file: fC617.txt
+      order: 133
+    f3E5F:
+      title: CXIII_§131
+      base_file: f3E5F.txt
+      order: 134
+    fAC1E:
+      title: CXIII_§132
+      base_file: fAC1E.txt
+      order: 135
+    f11D5:
+      title: CXIII_§133
+      base_file: f11D5.txt
+      order: 136
+    fEE8D:
+      title: CXIII_§134
+      base_file: fEE8D.txt
+      order: 137
+    f4538:
+      title: CXIII_§135
+      base_file: f4538.txt
+      order: 138
+    fDFC2:
+      title: CXIII_§136
+      base_file: fDFC2.txt
+      order: 139
+    f959D:
+      title: CXIII_§137
+      base_file: f959D.txt
+      order: 140
+    f5C13:
+      title: CXIII_§138
+      base_file: f5C13.txt
+      order: 141
+    f19C6:
+      title: CXIII_§139
+      base_file: f19C6.txt
+      order: 142
+    f49E9:
+      title: CXIII_§140
+      base_file: f49E9.txt
+      order: 143
+    fDD90:
+      title: CXIV_§141
+      base_file: fDD90.txt
+      order: 144
+    f5E95:
+      title: CXIV_§142
+      base_file: f5E95.txt
+      order: 145
+    f1962:
+      title: CXIV_§143
+      base_file: f1962.txt
+      order: 146
+    f171F:
+      title: CXIV_§144
+      base_file: f171F.txt
+      order: 147
+    fFB9F:
+      title: CXIV_§145
+      base_file: fFB9F.txt
+      order: 148
+    fA8E3:
+      title: CXIV_§146
+      base_file: fA8E3.txt
+      order: 149
+    f3451:
+      title: CXIV_§147
+      base_file: f3451.txt
+      order: 150
+    f0505:
+      title: CXIV_§148
+      base_file: f0505.txt
+      order: 151
+    f5736:
+      title: CXIV_§149
+      base_file: f5736.txt
+      order: 152
+    f4B9C:
+      title: CXIV_§150
+      base_file: f4B9C.txt
+      order: 153
+    fC17B:
+      title: CXV_§151
+      base_file: fC17B.txt
+      order: 154
+    f1F72:
+      title: CXV_§152
+      base_file: f1F72.txt
+      order: 155
+    fE853:
+      title: CXV_§153
+      base_file: fE853.txt
+      order: 156
+    f76CE:
+      title: CXV_§154
+      base_file: f76CE.txt
+      order: 157
+    f1A95:
+      title: CXV_§155
+      base_file: f1A95.txt
+      order: 158
+    fE396:
+      title: CXV_§156
+      base_file: fE396.txt
+      order: 159
+    f2883:
+      title: CXV_§157
+      base_file: f2883.txt
+      order: 160
+    f471D:
+      title: CXV_§158
+      base_file: f471D.txt
+      order: 161
+    fFCA3:
+      title: CXV_§159
+      base_file: fFCA3.txt
+      order: 162
+    f0869:
+      title: CXV_§160
+      base_file: f0869.txt
+      order: 163
+    f7E47:
+      title: CXVI_§161
+      base_file: f7E47.txt
+      order: 164
+    fDD95:
+      title: CXVI_§162
+      base_file: fDD95.txt
+      order: 165
+    fD7BB:
+      title: CXVI_§163
+      base_file: fD7BB.txt
+      order: 166
+    f65AA:
+      title: CXVI_§164
+      base_file: f65AA.txt
+      order: 167
+    fD7AC:
+      title: CXVI_§165
+      base_file: fD7AC.txt
+      order: 168
+    f2620:
+      title: CXVI_§166
+      base_file: f2620.txt
+      order: 169
+  chapter_to_tile:
+    CI: §0-10
+    CII: §11-20
+    CIII: §21-30
+    CIV: §31-40
+    CV: §41-50
+    CVI: §61-70
+    CVII: §71-80
+    CVIII: §81-90
+    CIX: §91-100
+    CX: §101-110
+    CXI: §111-120
+    CXII: §121-130
+    CXIII: §130-20
+    CXIV: §141-150
+    CXV: §151-160
+    CXVI: §161-166
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
